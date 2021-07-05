@@ -1,0 +1,51 @@
+body {
+    font-family: spartan;
+  }
+  
+  #parent {
+    padding-left: 50px;
+    background-color: rgb(12, 0, 119);
+  }
+  
+  h1 {
+    display: inline-block;
+    margin-right: 270px;
+  }
+  
+  div {
+    color: white;
+  }
+  ul.a{
+        display: inline-block;
+    margin-left: 10px;
+  }
+  ul.b{
+        display: inline-block;
+    margin-left: 10px;
+  }
+  .child {
+    display: inline-block;
+  }
+  span {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .underline {
+    display: block;
+    border-bottom: 2px solid rgb(12, 0, 121); 
+    padding-top:5px;  
+    padding-bottom:10px;
+  }  
+  text {
+    line-height: 20px;
+    text-align: center;
+    display: inline-block;
+    text-transform: uppercase;
+  }
+  .miraz
+  {
+    background-color: rgb(12, 0, 119);
+  }
+  
